@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "bjfa.gap-center",
+  "name": "Gap Center",
+  "version": "1.0.0",
+  "author": "bjfa",
+  "description": "Flexible space that centers its neighbour in the gap to the center section",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "GapCenter.qml"
+  },
+  "barWidget": {
+    "displayName": "Gap Center",
+    "description": "Flexible space that centers its neighbour in the gap to the center section",
+    "category": "Layout",
+    "allowMultiple": true
+  }
+}
